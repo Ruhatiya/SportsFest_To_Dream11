@@ -1,5 +1,3 @@
-<a href="https://devlup-labs.github.io"><img src="https://img.shields.io/badge/Developed%20under-Winter%20of%20Code%2C%20DevlUp%20Labs-blue"/></a>
-
 # Varchas-Dream-11
 An android app where participants create a team of real players for an upcoming Varchas match and compete with other viewers for big prizes. Your team earns points based on your players' performances in the real-life match, so make sure you make the right choices!
 
